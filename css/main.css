@@ -1,6 +1,8 @@
+/*Colocando estilo de letra*/
 body{
     font-family: 'Inconsolata', monospace;
 }
+/*Division del titulo*/
 hr{
     width: 120px;
     height: 5px;
@@ -8,25 +10,30 @@ hr{
     background: #000;
     margin-left: 20px;
 }
+/* Dando estilo al encabezado*/
 h1 {
     margin-left: 20px;
 }
+/* dimensionando el tamaño*/
 main {
     width: 800px;
     height: 800px;
     float:left;
 }
+/*dando estilo a las fotos y margenes*/
 div{
     margin-bottom: 20px;
     margin-left: 20px;
     opacity: 0.8;
 }
+/*encajando la letra del nombre al pide de pagina*/
 div p {
     position: relative;
     left: 80px;
     top: 160px;
     color: #fff;
 }
+/*Enlazando el sprite de fotos*/
 .bg-AudreyTang {
     width: 200px;
     height: 200px;
