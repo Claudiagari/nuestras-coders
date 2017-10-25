@@ -14,19 +14,19 @@ hr{
 h1 {
     margin-left: 20px;
 }
-/* dimensionando el tamaño*/
+/* Dimensionando el tamaño*/
 main {
     width: 800px;
     height: 800px;
     float:left;
 }
-/*dando estilo a las fotos y margenes*/
+/*Dando estilo a las fotos y margenes*/
 div{
     margin-bottom: 20px;
     margin-left: 20px;
     opacity: 0.8;
 }
-/*encajando la letra del nombre al pide de pagina*/
+/*Encajando la letra del nombre al pide de pagina*/
 div p {
     position: relative;
     left: 80px;
